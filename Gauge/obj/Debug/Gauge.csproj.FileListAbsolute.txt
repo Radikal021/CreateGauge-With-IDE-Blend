@@ -1,0 +1,68 @@
+C:\Users\mahdi\Desktop\Project\Gauge\Gauge\bin\Debug\Gauge.dll
+C:\Users\mahdi\Desktop\Project\Gauge\Gauge\bin\Debug\Gauge.pdb
+C:\Users\mahdi\Desktop\Project\Gauge\Gauge\bin\Debug\Microsoft.Expression.Controls.dll
+C:\Users\mahdi\Desktop\Project\Gauge\Gauge\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\mahdi\Desktop\Project\Gauge\Gauge\bin\Debug\de\Microsoft.Expression.Controls.resources.dll
+C:\Users\mahdi\Desktop\Project\Gauge\Gauge\bin\Debug\es\Microsoft.Expression.Controls.resources.dll
+C:\Users\mahdi\Desktop\Project\Gauge\Gauge\bin\Debug\fr\Microsoft.Expression.Controls.resources.dll
+C:\Users\mahdi\Desktop\Project\Gauge\Gauge\bin\Debug\it\Microsoft.Expression.Controls.resources.dll
+C:\Users\mahdi\Desktop\Project\Gauge\Gauge\bin\Debug\ja\Microsoft.Expression.Controls.resources.dll
+C:\Users\mahdi\Desktop\Project\Gauge\Gauge\bin\Debug\ko\Microsoft.Expression.Controls.resources.dll
+C:\Users\mahdi\Desktop\Project\Gauge\Gauge\bin\Debug\ru\Microsoft.Expression.Controls.resources.dll
+C:\Users\mahdi\Desktop\Project\Gauge\Gauge\bin\Debug\zh-Hans\Microsoft.Expression.Controls.resources.dll
+C:\Users\mahdi\Desktop\Project\Gauge\Gauge\bin\Debug\zh-Hant\Microsoft.Expression.Controls.resources.dll
+C:\Users\mahdi\Desktop\Project\Gauge\Gauge\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\mahdi\Desktop\Project\Gauge\Gauge\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\mahdi\Desktop\Project\Gauge\Gauge\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\mahdi\Desktop\Project\Gauge\Gauge\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\mahdi\Desktop\Project\Gauge\Gauge\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\mahdi\Desktop\Project\Gauge\Gauge\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\mahdi\Desktop\Project\Gauge\Gauge\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\mahdi\Desktop\Project\Gauge\Gauge\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\mahdi\Desktop\Project\Gauge\Gauge\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\mahdi\Desktop\Project\Gauge\Gauge\obj\Debug\Gauge.csprojAssemblyReference.cache
+C:\Users\mahdi\Desktop\Project\Gauge\Gauge\obj\Debug\UserControl1.g.cs
+C:\Users\mahdi\Desktop\Project\Gauge\Gauge\obj\Debug\Gauge_MarkupCompile.cache
+C:\Users\mahdi\Desktop\Project\Gauge\Gauge\obj\Debug\Gauge_MarkupCompile.lref
+C:\Users\mahdi\Desktop\Project\Gauge\Gauge\obj\Debug\UserControl1.baml
+C:\Users\mahdi\Desktop\Project\Gauge\Gauge\obj\Debug\Gauge.g.resources
+C:\Users\mahdi\Desktop\Project\Gauge\Gauge\obj\Debug\Gauge.Properties.Resources.resources
+C:\Users\mahdi\Desktop\Project\Gauge\Gauge\obj\Debug\Gauge.csproj.GenerateResource.cache
+C:\Users\mahdi\Desktop\Project\Gauge\Gauge\obj\Debug\Gauge.csproj.CoreCompileInputs.cache
+C:\Users\mahdi\Desktop\Project\Gauge\Gauge\obj\Debug\Gauge.csproj.CopyComplete
+C:\Users\mahdi\Desktop\Project\Gauge\Gauge\obj\Debug\Gauge.dll
+C:\Users\mahdi\Desktop\Project\Gauge\Gauge\obj\Debug\Gauge.pdb
+C:\Users\TITAN\Desktop\New folder (3)\DialGauge(C#)\DialGauge(C#)\Gauge\Gauge\bin\Debug\Gauge.dll
+C:\Users\TITAN\Desktop\New folder (3)\DialGauge(C#)\DialGauge(C#)\Gauge\Gauge\bin\Debug\Gauge.pdb
+C:\Users\TITAN\Desktop\New folder (3)\DialGauge(C#)\DialGauge(C#)\Gauge\Gauge\bin\Debug\Microsoft.Expression.Controls.dll
+C:\Users\TITAN\Desktop\New folder (3)\DialGauge(C#)\DialGauge(C#)\Gauge\Gauge\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\TITAN\Desktop\New folder (3)\DialGauge(C#)\DialGauge(C#)\Gauge\Gauge\bin\Debug\de\Microsoft.Expression.Controls.resources.dll
+C:\Users\TITAN\Desktop\New folder (3)\DialGauge(C#)\DialGauge(C#)\Gauge\Gauge\bin\Debug\es\Microsoft.Expression.Controls.resources.dll
+C:\Users\TITAN\Desktop\New folder (3)\DialGauge(C#)\DialGauge(C#)\Gauge\Gauge\bin\Debug\fr\Microsoft.Expression.Controls.resources.dll
+C:\Users\TITAN\Desktop\New folder (3)\DialGauge(C#)\DialGauge(C#)\Gauge\Gauge\bin\Debug\it\Microsoft.Expression.Controls.resources.dll
+C:\Users\TITAN\Desktop\New folder (3)\DialGauge(C#)\DialGauge(C#)\Gauge\Gauge\bin\Debug\ja\Microsoft.Expression.Controls.resources.dll
+C:\Users\TITAN\Desktop\New folder (3)\DialGauge(C#)\DialGauge(C#)\Gauge\Gauge\bin\Debug\ko\Microsoft.Expression.Controls.resources.dll
+C:\Users\TITAN\Desktop\New folder (3)\DialGauge(C#)\DialGauge(C#)\Gauge\Gauge\bin\Debug\ru\Microsoft.Expression.Controls.resources.dll
+C:\Users\TITAN\Desktop\New folder (3)\DialGauge(C#)\DialGauge(C#)\Gauge\Gauge\bin\Debug\zh-Hans\Microsoft.Expression.Controls.resources.dll
+C:\Users\TITAN\Desktop\New folder (3)\DialGauge(C#)\DialGauge(C#)\Gauge\Gauge\bin\Debug\zh-Hant\Microsoft.Expression.Controls.resources.dll
+C:\Users\TITAN\Desktop\New folder (3)\DialGauge(C#)\DialGauge(C#)\Gauge\Gauge\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\TITAN\Desktop\New folder (3)\DialGauge(C#)\DialGauge(C#)\Gauge\Gauge\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\TITAN\Desktop\New folder (3)\DialGauge(C#)\DialGauge(C#)\Gauge\Gauge\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\TITAN\Desktop\New folder (3)\DialGauge(C#)\DialGauge(C#)\Gauge\Gauge\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\TITAN\Desktop\New folder (3)\DialGauge(C#)\DialGauge(C#)\Gauge\Gauge\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\TITAN\Desktop\New folder (3)\DialGauge(C#)\DialGauge(C#)\Gauge\Gauge\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\TITAN\Desktop\New folder (3)\DialGauge(C#)\DialGauge(C#)\Gauge\Gauge\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\TITAN\Desktop\New folder (3)\DialGauge(C#)\DialGauge(C#)\Gauge\Gauge\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\TITAN\Desktop\New folder (3)\DialGauge(C#)\DialGauge(C#)\Gauge\Gauge\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\TITAN\Desktop\New folder (3)\DialGauge(C#)\DialGauge(C#)\Gauge\Gauge\obj\Debug\UserControl1.g.cs
+C:\Users\TITAN\Desktop\New folder (3)\DialGauge(C#)\DialGauge(C#)\Gauge\Gauge\obj\Debug\Gauge_MarkupCompile.cache
+C:\Users\TITAN\Desktop\New folder (3)\DialGauge(C#)\DialGauge(C#)\Gauge\Gauge\obj\Debug\Gauge_MarkupCompile.lref
+C:\Users\TITAN\Desktop\New folder (3)\DialGauge(C#)\DialGauge(C#)\Gauge\Gauge\obj\Debug\UserControl1.baml
+C:\Users\TITAN\Desktop\New folder (3)\DialGauge(C#)\DialGauge(C#)\Gauge\Gauge\obj\Debug\Gauge.g.resources
+C:\Users\TITAN\Desktop\New folder (3)\DialGauge(C#)\DialGauge(C#)\Gauge\Gauge\obj\Debug\Gauge.Properties.Resources.resources
+C:\Users\TITAN\Desktop\New folder (3)\DialGauge(C#)\DialGauge(C#)\Gauge\Gauge\obj\Debug\Gauge.csproj.GenerateResource.cache
+C:\Users\TITAN\Desktop\New folder (3)\DialGauge(C#)\DialGauge(C#)\Gauge\Gauge\obj\Debug\Gauge.csproj.CoreCompileInputs.cache
+C:\Users\TITAN\Desktop\New folder (3)\DialGauge(C#)\DialGauge(C#)\Gauge\Gauge\obj\Debug\Gauge.csproj.CopyComplete
+C:\Users\TITAN\Desktop\New folder (3)\DialGauge(C#)\DialGauge(C#)\Gauge\Gauge\obj\Debug\Gauge.dll
+C:\Users\TITAN\Desktop\New folder (3)\DialGauge(C#)\DialGauge(C#)\Gauge\Gauge\obj\Debug\Gauge.pdb
+C:\Users\TITAN\Desktop\New folder (3)\DialGauge(C#)\DialGauge(C#)\Gauge\Gauge\obj\Debug\Gauge.csprojAssemblyReference.cache
